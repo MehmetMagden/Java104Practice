@@ -1,4 +1,4 @@
-package Day01_Practice;
+package day01_Practice;
 
 public class C02_PrintVsPrintln {
 

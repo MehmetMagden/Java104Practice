@@ -1,6 +1,5 @@
-package Day01_Practice;
+package day01_Practice;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class C08_Scanner {
